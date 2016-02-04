@@ -14,6 +14,7 @@
 		558F678B1C62515E00518AE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 558F67891C62515E00518AE0 /* LaunchScreen.storyboard */; };
 		558F67961C62515E00518AE0 /* Tarea4_U3_Oscar_Gonzalez_a16Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558F67951C62515E00518AE0 /* Tarea4_U3_Oscar_Gonzalez_a16Tests.swift */; };
 		558F67A11C62515E00518AE0 /* Tarea4_U3_Oscar_Gonzalez_a16UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558F67A01C62515E00518AE0 /* Tarea4_U3_Oscar_Gonzalez_a16UITests.swift */; };
+		558F67AF1C62529700518AE0 /* Usuario.swift in Sources */ = {isa = PBXBuildFile; fileRef = 558F67AE1C62529700518AE0 /* Usuario.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		558F679C1C62515E00518AE0 /* Tarea4.U3.Oscar.Gonzalez.a16UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tarea4.U3.Oscar.Gonzalez.a16UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		558F67A01C62515E00518AE0 /* Tarea4_U3_Oscar_Gonzalez_a16UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tarea4_U3_Oscar_Gonzalez_a16UITests.swift; sourceTree = "<group>"; };
 		558F67A21C62515E00518AE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		558F67AE1C62529700518AE0 /* Usuario.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Usuario.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				558F67871C62515E00518AE0 /* Assets.xcassets */,
 				558F67891C62515E00518AE0 /* LaunchScreen.storyboard */,
 				558F678C1C62515E00518AE0 /* Info.plist */,
+				558F67AE1C62529700518AE0 /* Usuario.swift */,
 			);
 			path = Tarea4.U3.Oscar.Gonzalez.a16;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				558F67831C62515E00518AE0 /* ViewController.swift in Sources */,
 				558F67811C62515E00518AE0 /* AppDelegate.swift in Sources */,
+				558F67AF1C62529700518AE0 /* Usuario.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
